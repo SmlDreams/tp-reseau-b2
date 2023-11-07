@@ -161,7 +161,6 @@ rtt min/avg/max/mdev = 30.252/33.485/36.719/3.233 ms
   ```
   [cquentin@dhcplan1tp1 ~]$ sudo cat /etc/dhcp/dhcpd.conf
 
-  [sudo] password for cquentin:
   #
   # DHCP Server Configuration file.
   #   see /usr/share/doc/dhcp-server/dhcpd.conf.example
